@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scriptTutorial.js">
+    <Files>
+      <File FileName="Assets\scriptQueue.js" Line="92" Column="20" />
+      <File FileName="Assets\scriptLift.js" Line="42" Column="23" />
+      <File FileName="Assets\scriptPassenger.js" Line="32" Column="18" />
+      <File FileName="Assets\World.js" Line="17" Column="11" />
+      <File FileName="Assets\scriptTutorial.js" Line="113" Column="29" />
+      <File FileName="Assets\scriptMainMenu.js" Line="64" Column="38" />
+      <File FileName="Assets\scriptLiftShaft.js" Line="3" Column="22" />
+      <File FileName="Assets\scriptScoreboard.js" Line="7" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
